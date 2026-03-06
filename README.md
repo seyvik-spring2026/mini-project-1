@@ -1,4 +1,4 @@
-# Mini Project 1 — Mudita X Scraper Pipeline
+# Mini Project 1 — Storyengine
 
 AI-powered micro-SaaS prototype built for **Mudita Studios** as part of OIM3690. Scrapes Twitter/X to discover emerging AI builders, scores them on founder potential across multiple dimensions, and manages candidates through a recruiting pipeline.
 
