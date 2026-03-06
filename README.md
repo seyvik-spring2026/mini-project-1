@@ -1,6 +1,6 @@
 # Mini Project 1 — Storyengine
 
-AI-powered micro-SaaS prototype built for **Mudita Studios** as part of OIM3690. Scrapes Twitter/X to discover emerging AI builders, scores them on founder potential across multiple dimensions, and manages candidates through a recruiting pipeline.
+Customer Success Story Engine for Mudita Studios to solve early GTM friction for startups and leverage thier most valuable asset
 
 ## Client Brief
 
